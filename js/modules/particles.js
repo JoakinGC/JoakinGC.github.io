@@ -1,4 +1,5 @@
 const w  = window;
+const d = document;
 
 export default function particulesAnimated(id){
     particlesJS(
