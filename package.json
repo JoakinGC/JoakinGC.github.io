@@ -1,0 +1,15 @@
+{
+  "name": "portafolio-joaquin",
+  "version": "1.0.0",
+  "description": "Portafolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "Gaston Joaquin Contreras",
+  "license": "MIT",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
+}
